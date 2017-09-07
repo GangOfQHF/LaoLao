@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextFieldStyle.qml</file>
+        <file>FriendDelegate.qml</file>
+        <file>FriendList.qml</file>
+        <file>GroupDelegate.qml</file>
+        <file>logOn.qml</file>
+        <file>Register.qml</file>
+        <file>SCButtonStyle.qml</file>
+        <file>MessageDelegate.qml</file>
+        <file>chatWindow.qml</file>
+        <file>CreateGroup.qml</file>
+        <file>ModifyRemarks.qml</file>
+        <file>FindFriend.qml</file>
+        <file>AddFriendNoticeList.qml</file>
+        <file>AddNoticeDelegate.qml</file>
+        <file>ChangeGroup.qml</file>
+    </qresource>
+</RCC>
